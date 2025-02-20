@@ -1,0 +1,14 @@
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\bin\Debug\net9.0\Lerning.exe
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\bin\Debug\net9.0\Lerning.deps.json
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\bin\Debug\net9.0\Lerning.runtimeconfig.json
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\bin\Debug\net9.0\Lerning.dll
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\bin\Debug\net9.0\Lerning.pdb
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\obj\Debug\net9.0\Lerning.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\obj\Debug\net9.0\Lerning.AssemblyInfoInputs.cache
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\obj\Debug\net9.0\Lerning.AssemblyInfo.cs
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\obj\Debug\net9.0\Lerning.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\obj\Debug\net9.0\Lerning.dll
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\obj\Debug\net9.0\refint\Lerning.dll
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\obj\Debug\net9.0\Lerning.pdb
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\obj\Debug\net9.0\Lerning.genruntimeconfig.cache
+c:\Users\User\Documents\vsCode\C#Project\Project\Lerning\Lerning\Lerning\obj\Debug\net9.0\ref\Lerning.dll
